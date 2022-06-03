@@ -19,7 +19,8 @@ const hosts = [
     "genioquiz",
     "now.gg",
     "akinator",
-    "coolmathgames"
+    "coolmathgames",
+    "term.ooo"
 ];
 hosts.forEach(function (v, i) {
     if (window.location.host.match(v)) {
