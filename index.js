@@ -5,7 +5,15 @@ const hosts = [
     "clickjogos",
     "stopots",
     "roblox",
-    "minijogos"
+    "minijogos",
+    "gaamess",
+    "trex-runner",
+    "jogos360",
+    "santatracker",
+    "aiwigame",
+    "chess",
+    "pornhub",
+    "xvideos"
 ];
 hosts.forEach(function (v, i) {
     if (window.location.host.match(v)) {
