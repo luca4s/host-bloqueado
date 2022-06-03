@@ -17,7 +17,8 @@ const hosts = [
     "1001jogos",
     "lagged",
     "genioquiz"
-    "now.gg"
+    "now.gg",
+    "akinator"
 ];
 hosts.forEach(function (v, i) {
     if (window.location.host.match(v)) {
