@@ -16,7 +16,7 @@ const hosts = [
     "xvideos",
     "1001jogos",
     "lagged",
-    "genioquiz"
+    "genioquiz",
     "now.gg",
     "akinator",
     "coolmathgames"
