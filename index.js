@@ -13,7 +13,11 @@ const hosts = [
     "aiwigame",
     "chess",
     "pornhub",
-    "xvideos"
+    "xvideos",
+    "1001jogos",
+    "lagged",
+    "genioquiz"
+    "now.gg"
 ];
 hosts.forEach(function (v, i) {
     if (window.location.host.match(v)) {
