@@ -20,7 +20,10 @@ const hosts = [
     "now.gg",
     "akinator",
     "coolmathgames",
-    "term.ooo"
+    "term.ooo",
+    "gogy.com",
+    "contexto.me",
+    "quizparamigos.com"
 ];
 hosts.forEach(function (v, i) {
     if (window.location.host.match(v)) {
