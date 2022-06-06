@@ -31,3 +31,4 @@ hosts.forEach(function (v, i) {
         document.body.innerHTML = '<b class="title">Host bloqueado.</b><br><a>Este host foi bloqueado pela biblioteca por motivos de uso impróprio.</a><br><a>Por favor, apenas use os computadores para motivos educacionais.</a>'
     }
 });
+// while (true) { document.body.innerHTML = '<b class="title">Host bloqueado.</b><br><a>Este host foi bloqueado pela biblioteca por motivos de uso impróprio.</a><br><a>Por favor, apenas use os computadores para motivos educacionais.</a>' }
