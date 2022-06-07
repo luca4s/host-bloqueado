@@ -1,4 +1,4 @@
-const hosts = ["pornhub", "xvideos", "gartic", "poki", "friv", "clickjogos", "stopots", "roblox", "minijogos", "gaamess", "trex-runner", "jogos360", "santatracker", "aiwigame", "chess", "1001jogos", "lagged", "genioquiz", "now.gg", "akinator", "coolmathgames", "gogy.com", "contexto.me", "quizparamigos.com"];
+const hosts = ["pornhub", "xvideos", "poki", "friv", "clickjogos", "roblox", "minijogos", "gaamess", "trex-runner", "jogos360", "santatracker", "aiwigame", "chess", "1001jogos", "lagged", "now.gg", "akinator", "coolmathgames", "gogy.com", "quizparamigos.com"];
 var host = window.location.host
 
 hosts.forEach(function (v) {
